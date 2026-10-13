@@ -1,2 +1,0 @@
-# bonadikobnp
-service en ligne
